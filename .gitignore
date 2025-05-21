@@ -6,3 +6,5 @@ media/
 svd_model.pkl
 .env
 ml-32m/*
+Users/migrations/*
+Movies/migrations/*
